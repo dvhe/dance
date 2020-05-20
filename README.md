@@ -1,2 +1,2 @@
 # dance
-dance - A nertivia API wrapper written in python
+dance is a Nertivia API wrapper currently in development.
